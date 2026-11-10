@@ -15,3 +15,4 @@ python -m venv .venv
 
 1. [Токенизация EN / RU / RU-латиницей / KK](experiments/01_tokenization/results.md)
 2. [Случайность: «Придумай название для кофейни» ×3](experiments/02_randomness/results.md)
+3. [Токенайзеры: OpenAI, DeepSeek-V3, Mistral Nemo (Anthropic не измерен)](experiments/03_tokenizers/results.md)
