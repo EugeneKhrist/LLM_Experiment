@@ -13,4 +13,4 @@ python -m venv .venv
 
 ## Опыты
 
-1. [Токенизация RU vs EN](experiments/01_tokenization/results.md)
+1. [Токенизация EN / RU / RU-латиницей / KK](experiments/01_tokenization/results.md)
